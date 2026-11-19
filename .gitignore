@@ -1,0 +1,11 @@
+# Datos reales de la red: nunca subir
+*.zip
+*.csv
+!datos/*.csv
+
+# Credenciales
+.env
+
+# Python
+__pycache__/
+*.pyc
