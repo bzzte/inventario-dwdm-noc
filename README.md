@@ -15,7 +15,7 @@ Proyecto final de Optativa II (IoT) y Aplicaciones de Telecomunicaciones – Ing
 | `dashboard/` | `dashboard_noc.py`: tablero en Streamlit con vista global y ficha técnica por nodo | Capa C – Visualización |
 | `db/` | `esquema_inventario.sql`: esquema jerárquico propuesto para PostgreSQL (plataforma → nodo → chasis → tarjeta → puerto → longitud de onda) | Modelo de datos |
 | `datos/` | Muestra **sintética** del inventario para probar sin acceso a NCE | – |
-| `docs/` | Informe final y presentación | – |
+
 
 ## Requisitos
 
